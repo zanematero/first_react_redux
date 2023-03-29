@@ -1,4 +1,4 @@
-import Counter from './Counter'
+import Counter from './counterSlice'
 import './App.css';
 
 function App() {
